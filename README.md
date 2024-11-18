@@ -9,7 +9,6 @@ source ..myenv/bin/activate
 
 To run the `downloader.py` script, use the following command in your terminal:
 
-```bash
 python downloader.py
 
 or
