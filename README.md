@@ -7,12 +7,19 @@ source ..myenv/bin/activate
 
 ## Running the `downloader.py` Script
 
+1. First, navigate to the `youtubeDownloader` folder:
+
+```bash
+cd youtubeDownloader
+
 To run the `downloader.py` script, use the following command in your terminal:
 
+```bash
 python downloader.py
 
 or
 
+```bash
 python3 downloader.py
 
 
