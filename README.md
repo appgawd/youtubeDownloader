@@ -3,7 +3,7 @@
 To activate your virtual environment, run the following command:
 
 ```bash
-source myenv/bin/activate
+source ..myenv/bin/activate
 
 deactivate
 
