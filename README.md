@@ -7,4 +7,4 @@ source ..myenv/bin/activate
 
 deactivate
 
-This markdown gives clear instructions on how to activate and deactivate a virtual environment.
+This markdown gives clear instructions on how to activate and deactivate a virtual environment. GUI will be added soon.
