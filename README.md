@@ -1,18 +1,10 @@
-echo "# Python Virtual Environment Instructions
-
 ## Activating the Virtual Environment
 
-To activate your virtual environment \`myenv\`:
+To activate your virtual environment, run the following command:
 
-\`\`\`bash
-source ../myenv/bin/activate
-\`\`\`
+```bash
+source myenv/bin/activate
 
-## Deactivating the Virtual Environment
-
-To deactivate the virtual environment:
-
-\`\`\`bash
 deactivate
-\`\`\`
-" > instructions.md
+
+This markdown gives clear instructions on how to activate and deactivate a virtual environment.
